@@ -51,7 +51,7 @@ p {
   font-size: 18px;
   font-weight: 300;
   line-height: 1.5;
-  color: #5b5b5b;
+  color: #8C8C8C;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -116,7 +116,7 @@ b, strong {
 }
 
 .animated-item {
-  color: #ffc200;
+  color: #ffb000;
 }
 
 .animated-item {
@@ -286,11 +286,11 @@ b, strong {
   font-family: 'unicons';
   content: '\eb65';
   font-size: 30px;
-  color: #ffffff;
+  color: #000;
 }
 
 .dark-mode {
-  background: #0c0c0d;
+  background: #282828;
 }
 .dark-mode .navbar-light .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 0.8);

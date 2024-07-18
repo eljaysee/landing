@@ -2,6 +2,10 @@
 
   "use strict";
 
+    $(document).ready(function() {
+    $('body').addClass('dark-mode');
+    })
+
     // COLOR MODE
     $('.color-mode').click(function(){
         $('.color-mode-icon').toggleClass('active')
